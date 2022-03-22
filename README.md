@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @OchiengOsodo
 - 👀 I’m interested in building Laravel applications
-- 🌱 I’m currently learning Laravel and Tailwindcss
-- 💞️ I’m looking to collaborate on any Laravel and Tailwindcss projects
+- 🌱 I’m currently learning Laravel
+- 💞️ I’m looking to collaborate on any Laravel projects
 - 📫 How to reach me @dafflebwoy on Twitter, andyosodo@gmail.com through email
 
 <!---
